@@ -20,5 +20,6 @@ Please refer to the [contributing guidelines](https://github.com/manparvesh/Awes
  - [Traffic Simulation](https://sourceforge.net/projects/atsimu/)
  - [rattleCAD](https://sourceforge.net/projects/rattlecad/)
  - [FRAME3DD](https://sourceforge.net/projects/frame3dd/)
+ - [EPANET](https://github.com/USEPA/Water-Distribution-Network-Model)
 
 ## Learning Resources
